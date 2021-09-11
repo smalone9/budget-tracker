@@ -1,7 +1,7 @@
 # budget-tracker
 Challenge 19: PWA
 
-![Image of Budget Tracker](snapshot.PNG)
+![Image of Budget Tracker](./snapshot.PNG)
 
 ## Purpose
 AS AN avid traveler
